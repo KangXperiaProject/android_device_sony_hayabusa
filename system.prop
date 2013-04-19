@@ -6,3 +6,11 @@ ro.sf.lcd_density=320
 
 #upside down screen
 ro.sf.hwrotation=180
+
+#hardware info
+ro.device.chipset=Qualcomm MSM8260A (S4 Plus)
+ro.device.cpu=1.5 GHz dual-core Krait
+ro.device.gpu=Adreno 225
+ro.device.rear_cam=13 MP
+ro.device.front_cam=1.3 MP
+ro.device.screen_res=720x1280
