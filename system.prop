@@ -4,9 +4,6 @@ ro.cwm.enable_key_repeat=true
 # Graphics
 ro.sf.lcd_density=320
 
-#upside down screen
-ro.sf.hwrotation=180
-
 #hardware info
 ro.device.chipset=Qualcomm MSM8260A (S4 Plus)
 ro.device.cpu=1.5 GHz dual-core Krait
